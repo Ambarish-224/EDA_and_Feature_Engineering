@@ -12,7 +12,7 @@ Topic Covers in this Repository are :-
       b) Un-Structure Data
       c) Semi- Structure Data
 
-4) EDA Analysis
+4) EDA Analysis :-
     a) Profile of the Data
     b) Statistic Analysis
     c) Graph Based Analysis
